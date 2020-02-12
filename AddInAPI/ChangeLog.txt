@@ -1,0 +1,17 @@
+﻿21.11.2018
+	Added new nodes:
+		Drawing.GetDrawingViews - Analysis of drawing views and search for views whose scale value coincides with the scale of the document.
+		Drawing.RotateViewDetector - The method of detecting which of the drawing views were rotated and setting the sign "rotated" in the view label. The content of labels of drawing views conforms to the Russian ESKD standard.
+		Drawing.ScaleAdd - The method of creating a scale label for drawing views whose scale does not coincide with the scale of the document.
+		Drawing.ScaleDelete - The method removes the scale mark on the drawing views, the scale of which coincides with the scale of the document.
+		Drawing.ViewRenamer - A method for renaming drawing views in a drawing. New names consist of symbols of the Cyrillic alphabet. New names correspond to the Russian standard ESKD.
+		Drawing.ViewsAndSheets - Method that determines which of the drawing views were transferred to other sheets of the drawing. The method creates a log file with detailed information on all displaced views. Complies with Russian standards ESKD.
+	Correction of existing nodes:
+		Document.Transaction.Abort - Fixed logic in python node. Call Autodesk Inventor application occurs after the checks.
+		Document.Transaction.End - Fixed logic in python node. Call Autodesk Inventor application occurs after the checks.
+		Document.Transaction.Start - Fixed logic in python node. Call Autodesk Inventor application occurs after the checks.
+02.11.2018
+	Added new nodes:
+		GetTechnicalRequirements - method extract technical requirements from drawing document.
+		SearchRefDocs - search reference documents in technical requirements.
+		RefDocsXMLWriter - writing a list of reference documents to an XML-file.

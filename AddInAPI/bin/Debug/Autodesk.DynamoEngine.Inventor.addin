@@ -1,0 +1,14 @@
+<Addin Type="Standard">
+  <!--Created for Autodesk Inventor Version 19.0-->
+  <ClassId>{97663284-6f69-4343-ba0e-b021629ab4bb}</ClassId>
+  <ClientId>{97663284-6f69-4343-ba0e-b021629ab4bb}</ClientId>
+  <DisplayName>DynamoEngine</DisplayName>
+  <Description>Engine for Dynamo nodes.</Description>
+  <Assembly>DynamoEngine.dll</Assembly>
+  <LoadOnStartUp>1</LoadOnStartUp>
+  <UserUnloadable>1</UserUnloadable>
+  <Hidden>0</Hidden>
+  <SupportedSoftwareVersionGreaterThan>17..</SupportedSoftwareVersionGreaterThan>
+  <DataVersion>1</DataVersion>
+  <UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>

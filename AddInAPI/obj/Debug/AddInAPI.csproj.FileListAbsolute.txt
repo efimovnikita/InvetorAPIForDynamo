@@ -1,0 +1,10 @@
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\bin\Debug\ChangeLog.txt
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\bin\Debug\Autodesk.DynamoEngine.Inventor.addin
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\bin\Debug\Readme.txt
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\bin\Debug\DynamoEngine.dll
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\bin\Debug\DynamoEngine.pdb
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\bin\Debug\autodesk.inventor.interop.dll
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\bin\Debug\stdole.dll
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\obj\Debug\DynamoEngine.dll
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\obj\Debug\DynamoEngine.pdb
+D:\GoogleDrive\Программирование\VB\AddInAPI\AddInAPI\obj\Debug\AddInAPI.csprojResolveAssemblyReference.cache

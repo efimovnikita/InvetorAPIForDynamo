@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+
+  <assemblyIdentity name="DynamoEngine" version="1.0.0.0"></assemblyIdentity>
+
+  <clrClass clsid="{97663284-6f69-4343-ba0e-b021629ab4bb}" progid="DynamoEngine.StandardAddInServer" threadingModel="Both" name="DynamoEngine.StandardAddInServer" runtimeVersion=""></clrClass>
+
+  <file name="DynamoEngine.dll" hashalg="SHA1"></file>
+
+</assembly>
